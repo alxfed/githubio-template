@@ -1,3 +1,8 @@
+---
+layout: page
+title:  Page title
+---
+
 # Page 1
 {% include lib/mathjax.html %}
 
